@@ -1,0 +1,31 @@
+{
+  "Error": "Error!",
+  "start1": "Press 1 to setup charaters number",
+  "start2": "Press 2 to input your password",
+  "startInput": "Enter your password: ",
+  "input": "Enter: ",
+
+  "inputNumberCharacters": "Enter password's charaters number: ",
+  "inputYourPassword": "Enter your password: ",
+  "PasswordIs": "Password: ",
+  "startSearch": "Starting at",
+  "start": "Start!",
+
+  "sec": " second",
+  "min": " minutes ",
+
+  "succefulSearch": "Passwords are matched",
+
+  "InitialPassword": "  Initial password",
+  "SelectedPassword": "  Cracked password",
+
+  "info": "Cracking info:",
+
+  "selectionAttempts": "The password was cracked after ",
+  "attemps": " attempts",
+
+  "selectionTime": "The password was cracked in ",
+
+  "pressEnter": "Press Enter to exit"
+
+}
