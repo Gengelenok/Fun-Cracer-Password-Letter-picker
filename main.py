@@ -96,7 +96,7 @@ if float(finalT) >= 60:
     finalT = float(finalT) - 60*timedS
     finalT = round(finalT, int(finalT)+2)
     
-    finalT = str(int(timedS)) + langDict("min") + str(finalT) + langDict("sec")
+    finalT = str(int(timedS)) + langDict["min"] + str(finalT) + langDict["sec"]
 else:
     finalT = str(finalT) + langDict["sec"]
 
